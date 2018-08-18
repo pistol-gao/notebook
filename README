@@ -1,3 +1,13 @@
 1. string output from IPython notebooks
 https://github.com/jond3k/ipynb_stripout
 
+2. kerner list:
+jupyter kernelspec list
+
+Available kernels:
+  java           /Library/Frameworks/Python.framework/Versions/3.6/share/jupyter/kernels/java
+  python3        /Library/Frameworks/Python.framework/Versions/3.6/share/jupyter/kernels/python3
+  cling-cpp11    /usr/local/share/jupyter/kernels/cling-cpp11
+  cling-cpp17    /usr/local/share/jupyter/kernels/cling-cpp17
+  python2        /usr/local/share/jupyter/kernels/python2
+
