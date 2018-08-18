@@ -1,5 +1,11 @@
-1. string output from IPython notebooks
+1. notebook tools for git: 
+a.string output from IPython notebooks
 https://github.com/jond3k/ipynb_stripout
+
+b.nbdime
+https://nbdime.readthedocs.ioaen/stable/
+pip3 install --upgrade nbdime
+nbdime config-git --enable --global
 
 2. kerner list:
 jupyter kernelspec list
@@ -10,4 +16,5 @@ Available kernels:
   cling-cpp11    /usr/local/share/jupyter/kernels/cling-cpp11
   cling-cpp17    /usr/local/share/jupyter/kernels/cling-cpp17
   python2        /usr/local/share/jupyter/kernels/python2
+  c              /usr/local/share/jupyter/kernels/c
 
