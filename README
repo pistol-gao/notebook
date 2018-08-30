@@ -18,3 +18,4 @@ Available kernels:
   python2        /usr/local/share/jupyter/kernels/python2
   c              /usr/local/share/jupyter/kernels/c
 
+java kernel https://github.com/SpencerPark/IJava
