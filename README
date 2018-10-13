@@ -17,5 +17,8 @@ Available kernels:
   cling-cpp17    /usr/local/share/jupyter/kernels/cling-cpp17
   python2        /usr/local/share/jupyter/kernels/python2
   c              /usr/local/share/jupyter/kernels/c
+  go 
+
 
 java kernel https://github.com/SpencerPark/IJava
+go kernel https://github.com/gopherdata/gophernotes
